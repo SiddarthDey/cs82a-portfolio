@@ -28,3 +28,8 @@ Genre categories are user-defined tags and could belong to different genres simu
 2. Go into the folder named final_project.
 3. Make sure pandas, matplotlib and seaborn libraries are installed.
 4. Open and run netflix_analysis.ipynb file using Jupyter Notebook.
+
+Prompt Disclosure
+Data License: CC0 Public Domain (scraped from Flixable via Kaggle).
+PII Handling: The dataset contains public content metadata only; no personal identifiable information (PII) is present.
+AI Assistance: Was used as a learning assistant to assist with code debugging (fixing Seaborn deprecation warnings), refining dataset cleanup logic, and structuring the project report/README format.
